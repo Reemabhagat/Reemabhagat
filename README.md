@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Reemabhagat
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning Masters in Information technology 
-- 💞️ I’m looking to collaborate on my project 
+- 👀 I’m a Web developer
+- 🌱 I’m currently learning MERN Stack
+- 💞️ I’m looking to collaborate on MERN projects
 - 📫 How to reach me... Mail me @reemabhagat88@gmail.com
 
 <!---
