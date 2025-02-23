@@ -2,7 +2,7 @@
 - 👀 I’m a Web developer
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on MERN projects
-- Skills- Tailwind CSS, Bootstrap, HTML, CSS, Wordpress, Web Flow, Elementor, Oxygen Builder, Divi Theme, Kadence Theme, Photoshop, Adobe XD, Figma.
+- Skills- Tailwind CSS, Bootstrap, HTML, CSS, React, Wordpress, Web Flow, Elementor, Oxygen Builder, Divi Theme, Kadence Theme, Photoshop, Adobe XD, Figma.
 - 📫 How to reach me... Mail me @reemabhagat88@gmail.com
 
 <!---
